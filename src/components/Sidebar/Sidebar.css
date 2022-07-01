@@ -1,0 +1,8 @@
+.sidebar {
+    border-right: solid 1px black;
+    padding: 1rem;
+}
+  
+.sidebar.categories a {
+    display: block;
+}
